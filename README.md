@@ -13,5 +13,34 @@ I also helped update the Github Readme from time to time.
 ## Personal Challenge
 Luckily, I did not face any personal challenges but if I had to pick something it would be time. It was a challenge to accomplish so much in a short period of time. But I always had my team to help me as well as our very supportive TA.
 
+# Team Assessment
+
+Hands down the best
+
+## Team Challenge and Strengths
+
+Hands down best team in the whole program. Every member was on the top of their game and very supportive. Not to mention very funny and just good people in general. 
+
+From day 1 our communication was on point and every member contributed heavily to further the progress of the project.  We all made executive decisions as a team and quickly resolved any issues that came up.  
+
+Even if some team members  had disagreements, the rest of the team would rise up to the occasion and come to the rescue.
+
+# Summary of Project 
+
+###### Our topic
+
+Since movie releases have a short revenue lifespan, our ML models aim to provide long lasting and sustainable revenue for Disney.
+
+###### Machine module used 
+
+* ML Model: K-Means Clustering and K-Nearest Neighbor
+
+######  Results of the analysis
+
+We can find the nearest neighbors of each movie titles and their genre and MPAA rating.
+Leveraging this information, we can find out our target audience.
+With this data we can cater our merchandise to that group of customers, increasing the probability of them buying said merchandise.
+In conclusion, allowing Disney to diversify their revenue portfolio and have access to a steady stream of income in addition to their movie profits. 
+
 
 

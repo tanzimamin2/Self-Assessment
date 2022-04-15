@@ -24,15 +24,15 @@ Even if some team members  had disagreements, the rest of the team would rise up
 
 # Summary of Project 
 
-#### Our topic
+### Our topic
 
 Since movie releases have a short revenue lifespan, our ML models aim to provide long lasting and sustainable revenue for Disney.
 
-#### Machine module used 
+### Machine module used 
 
 **ML Model:** K-Means Clustering and K-Nearest Neighbor
 
-####  Results of the analysis
+###  Results of the analysis
 
 We can find the nearest neighbors of each movie titles and their genre and MPAA rating.
 Leveraging this information, we can find out our target audience.

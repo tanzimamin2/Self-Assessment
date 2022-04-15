@@ -34,13 +34,7 @@ Since movie releases have a short revenue lifespan, our ML models aim to provide
 
 #####  Results of the analysis
 
-We can find the nearest neighbors of each movie titles and their genre and MPAA rating.
-
-Leveraging this information, we can find out our target audience.
-
-With this data we can cater our merchandise to that group of customers, increasing the probability of them buying said merchandise.
-
-In conclusion, allowing Disney to diversify their revenue portfolio and have access to a steady stream of income in addition to their movie profits. 
+We can find the nearest neighbors of each movie titles and their genre and MPAA rating. Leveraging this information, we can find out our target audience. With this data we can cater our merchandise to that group of customers, increasing the probability of them buying said merchandise. In conclusion, allowing Disney to diversify their revenue portfolio and have access to a steady stream of income in addition to their movie profits. 
 
 
 
